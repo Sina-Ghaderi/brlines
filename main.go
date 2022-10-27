@@ -1,7 +1,7 @@
 package main
 
 import (
-	"brline/lines"
+	"brlines/lines"
 	"flag"
 	"fmt"
 	"log"

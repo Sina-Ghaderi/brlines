@@ -1,1 +1,1 @@
-./brline --xb 10 --yb 1 --xa 2 --ya 15
+./brlines --xb 10 --yb 1 --xa 2 --ya 15

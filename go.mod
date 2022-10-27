@@ -1,4 +1,4 @@
-module brline
+module brlines
 
 go 1.19
 

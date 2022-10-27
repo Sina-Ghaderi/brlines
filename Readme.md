@@ -7,19 +7,19 @@ in order to compile and run this project you need to install [go compiler](https
 after that run `go build` in project directory to compile brline binary
 
 ```
-# git clone https://git.snix.ir/brline
-# cd brline && go build 
-# ./brline
+# git clone https://git.snix.ir/brlines
+# cd brlines && go build 
+# ./brlines
 ```
 
 ### how to use
-use `./brline --help` to print help banner, you need to provide 2 points as start and end of the line  
+use `./brlines --help` to print help banner, you need to provide 2 points as start and end of the line  
 each point has x and y coordinate, so for starting point you should use -xa and -ya flags and for ending point -xb and -yb
 
 ```
-# ./brline --help
+# ./brlines --help
 usage of bresenham line simulator:
-./brline options...
+./brlines options...
 
 options:
   --pt  <file>      named png file to save bresenham output
@@ -32,7 +32,7 @@ options:
   --yb  <uint>      y coordinate of ending point
 
 example:
-   ./brline --pt mytest.png --xa 8 --ya 3 --xb 2 --yb 10
+   ./brlines --pt mytest.png --xa 8 --ya 3 --xb 2 --yb 10
 
 
 Copyright (c) 2022 snix.ir, All rights reserved.
