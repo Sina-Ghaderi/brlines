@@ -60,7 +60,7 @@ example:
 
 Copyright (c) 2022 snix.ir, All rights reserved.
 Developed BY <Sina Ghaderi> sina@snix.ir
-This work is licensed under the terms of GNU General Public license.
+This work is licensed under the terms of the MIT licence
 Github: github.com/sina-ghaderi and Source: git.snix.ir
 `, os.Args[0], os.Args[0])
 }
