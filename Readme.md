@@ -41,4 +41,11 @@ This work is licensed under the terms of GNU General Public license.
 Github: github.com/sina-ghaderi and Source: git.snix.ir
 ```
 
+### testing results
+these images has been produced by brlines, output is a png file in 530*530 pixel  
+[br_resualt_a](br_resualt_a.png) |  [br_resualt_b](br_resualt_b.png)| [br_resualt_c](br_resualt_c.png)|[br_resualt_d](br_resualt_d.png)
+:-------------------------:|:------------------------:|:------------------------:|:-------------------------:
+![](br_resualt_a.png)  |  ![](br_resualt_b.png)       |  ![](br_resualt_c.png)   |  ![](br_resualt_d.png)
+
+
 
