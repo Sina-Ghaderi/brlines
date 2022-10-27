@@ -1,4 +1,4 @@
-# brline
+# brlines
 simple bresenham line drawing algorithm demonstration implemented with golang,
 this was my last week lesson in computer graphics class with Dr. Behzad Zamani
 
