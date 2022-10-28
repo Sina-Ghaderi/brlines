@@ -4,7 +4,8 @@ this was my last week lesson in computer graphics class with Dr. Behzad Zamani
 
 ### how to compile
 in order to compile and run this project you need to install [go compiler](https://go.dev/dl),
-after that run `go build` in project directory to compile brline binary
+after that run `go build` in project directory to compile brline binary  
+or you may download pre-compiled binary for windows and linux from [Releases](https://github.com/Sina-Ghaderi/brlines/releases)
 
 ```
 # git clone https://git.snix.ir/brlines
